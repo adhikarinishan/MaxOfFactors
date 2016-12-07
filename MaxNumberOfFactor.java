@@ -41,18 +41,12 @@ public class MaxNumberOfFactor {
 				
 			}
 			System.out.println("max factor is=>");
-			System.out.println(a[count-1]);//to print maximum factor
-			
-		
-			
+			System.out.println(a[count-1]);//to print maximum factor			
 		}
 		else
 		{
 			
 			System.out.println("factor="+n);
 		}
-		
-		
 	}
-
 }
